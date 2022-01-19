@@ -2,11 +2,11 @@
 - In this page I wish to showcase my skills and coding achievements.
 - I have a wide variety of interestes, ranging from microscopy and image analysis, to transcriptomic data analysis.
 - As I delve into the galaxy that is the coding corpus of knowledge, I hope to regulary update my repository collection.
-- My intention is to use coding for bioinformatics purpouses.
-- However, it is likely to look pretty random; at least at first...
+- Currenly I work as a research software engineer at M4I.
+- My role is to develop an OMERO server for researchers at Maastricht Univeristy in collaboration with DataHub. 
 - 
 - If you want to talk,
-- email: rodrigor.rosas3@gmail.com
+- email: r.rosas@maastrichtuniversity.nl
 -
 - Bests,
 - RRB
